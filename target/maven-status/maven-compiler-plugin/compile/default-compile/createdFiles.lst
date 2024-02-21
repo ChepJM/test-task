@@ -1,0 +1,16 @@
+prom\it\controller\ProfessionController.class
+prom\it\entity\Profession.class
+prom\it\entity\Employee.class
+prom\it\service\impl\ProfessionServiceImpl.class
+prom\it\TestTaskApplication.class
+prom\it\controller\EmployeeController.class
+prom\it\service\EmployeeService.class
+prom\it\entity\Department.class
+prom\it\repository\ProfessionRepository.class
+prom\it\service\impl\DepartmentServiceImpl.class
+prom\it\service\ProfessionService.class
+prom\it\service\impl\EmployeeServiceImpl.class
+prom\it\controller\DepartmentController.class
+prom\it\repository\EmployeeRepository.class
+prom\it\service\DepartmentService.class
+prom\it\repository\DepartmentRepository.class
